@@ -9,7 +9,7 @@ https://github.com/gabvilar/solo-adventure.git
 - Bruno Ferreira da Silva 
     - email: brenoouhd@gmail.com
 - Gabriel Brandão Vilar
-    - email: gabrielbrandaovilar@gmail.com
+    - email: gabriel.vilar.098@ufrn.edu.br
 - Letícia Queiroz Wanderley 
     - email: leticia.queiroz.109@ufrn.edu.br
 
@@ -34,5 +34,5 @@ https://github.com/gabvilar/solo-adventure.git
 
 Requer **Java 16 ou superior** (por causa do `toList()`).
 
-- Para compilar: javac -d out src/*.java
-- Para executar: java -cp out src.Main
+- Para compilar: `javac -d out src/*.java`
+- Para executar: `java -cp out src.Main`
