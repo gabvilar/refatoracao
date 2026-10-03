@@ -3,7 +3,7 @@ Atividade prática de refatoração de um sistema de cadastro de produtos, utili
 
 ## Refatoração - Link do Projeto no  Github
 
-https://github.com/gabvilar/solo-adventure.git
+[https://github.com/gabvilar/solo-adventure.git](https://github.com/gabvilar/refatoracao)
 
 ## Equipe
 - Bruno Ferreira da Silva 
